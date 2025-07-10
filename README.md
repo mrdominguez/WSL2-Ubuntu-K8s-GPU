@@ -219,7 +219,7 @@ Bus Location:   00000000:65:00.0
 Architecture:   6.1
 ```
 
-## Verify GPU access from `docker`
+## Verify GPU access from Docker
 ### `3_docker_gpu_verify.sh`
 Make sure that the current user belongs to the `docker` group.
 ```
